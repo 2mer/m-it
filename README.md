@@ -8,6 +8,9 @@
 
 A Minimal javascript event emitter, simple with no bloat
 
+Motivation:
+sometimes you just gotta emit an event, without a complex named event system, and without it costing you 40kB
+
 ## Installation
 
 **npm:**
