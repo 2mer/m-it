@@ -3,7 +3,7 @@
 ![m-it logo](https://github.com/LeRedditBro/m-it/blob/main/images/m-it.svg)
 
 <p>
-<img src="https://img.shields.io/badge/-No%20Dependencies%20%F0%9F%8D%83-brightgreen"/><img src="https://img.shields.io/bundlephobia/min/m-it"/>
+<img src="https://img.shields.io/badge/-No%20Dependencies%20%F0%9F%8D%83-brightgreen"/><img src="https://img.shields.io/bundlephobia/min/@sgty/m-it"/>
 </p>
 
 A Minimal javascript event emitter, simple with no bloat
