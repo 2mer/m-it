@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/-No%20Dependencies%20%F0%9F%8D%83-brightgreen"/><img src="https://img.shields.io/bundlephobia/min/m-it"/>
 </p>
 
-TBD
+A Minimal javascript event emitter, simple with no bloat
 
 ## Installation
 
