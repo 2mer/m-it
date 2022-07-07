@@ -1,8 +1,9 @@
 {
-	"name": "m-it",
+	"name": "@sgty/m-it",
 	"description": "minimal event emitter",
 	"version": "1.0.0",
 	"main": "dist/index.js",
+	"private": false,
 	"scripts": {
 		"test": "jest",
 		"test-watch": "jest --watchAll",

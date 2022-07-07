@@ -16,19 +16,19 @@ sometimes you just gotta emit an event, without a complex named event system, an
 **npm:**
 
 ```bash
-npm install m-it
+npm install @sgty/m-it
 ```
 
 **yarn:**
 
 ```bash
-yarn add m-it
+yarn add @sgty/m-it
 ```
 
 **pnpm:**
 
 ```bash
-pnpm add m-it
+pnpm add @sgty/m-it
 ```
 
 ## Usage
@@ -37,9 +37,9 @@ usage is very simple, and meant to be used for very simple events.
 there are no event names, the semantics of the event are tied to its variable name.
 
 ```js
-import EventEmitter from 'm-it';
+import EventEmitter from '@sgty/m-it';
 // also accessible via destructure (complies better with vscode autocomplete)
-import { EventEmitter } from 'm-it';
+import { EventEmitter } from '@sgty/m-it';
 
 const obj = { onClick: new EventEmitter() };
 
